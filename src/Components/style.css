@@ -1,0 +1,10 @@
+.active{
+ color: chocolate;
+}
+.NotActive{
+    color: gray;
+}
+
+.Heading{
+    padding-bottom: 100px;
+}
